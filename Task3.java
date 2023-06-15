@@ -2,7 +2,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class ATM {
+public class Task3 {
     private static Map<Integer, Account> accounts = new HashMap<>();
     private static int currentUserId;
 
